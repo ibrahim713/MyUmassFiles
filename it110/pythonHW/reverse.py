@@ -1,0 +1,1 @@
+import mysql.connector cnx = mysql.connector.connect(user='root', password=‘gurhan713', database='northwind') cnx.close()  # close the connector
