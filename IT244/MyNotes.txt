@@ -1,13 +1,17 @@
 # Class Notes for IT244
 
-06/08/2017
+#06/08/2017
 login address for unix
 USER@users3.cs.umb.edu
 use the less command to see file by screnful
 grep searches files
 sort will print file in sorted order, doesnt change file
 head prints first 10 lines, while tails does last lines
+ -r reverse order, -n numbered sort, -nr reverse numbered sort
 
+
+#06/12/2017
+technique to find errors in script files bash filename  > /dev/null
 
 
 
