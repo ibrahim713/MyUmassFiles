@@ -1,2 +1,0 @@
-login address for unix
-USER@users3.cs.umb.edu
